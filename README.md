@@ -199,7 +199,3 @@ The project demonstrates understanding of:
 * Docker fundamentals
 * Reproducible environments
 * Version control using Git
-
-
-
-Just tell me what level you want 🚀
